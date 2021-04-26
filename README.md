@@ -1,11 +1,17 @@
 # Socket-Server
 
 Reconstruir módulos de Node
-    npm install
+'''
+npm install
+'''
 
 Generar el DIST
-    tsc -w
+'''
+tsc -w
+'''
 
 Levantar servidor
-    nodemon dist/
-    node dist/
+'''
+nodemon dist/
+node dist/
+'''
